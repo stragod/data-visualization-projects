@@ -1,3 +1,4 @@
+## Global vaccine tracker 
 For the Global Vaccine Tracker Tableau project, I worked on creating a data visualization that would provide insights into the global distribution and administration of COVID-19 vaccines. The project aimed to demonstrate my ability to work with real-world data, design effective and informative visualizations, and communicate insights effectively to a broad audience.
 
 The project was developed using Tableau, a powerful data visualization tool, and it included the following steps:
